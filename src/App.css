@@ -1260,6 +1260,9 @@
   #error-page p {
     font-size: 1em;
   }
+  .grouped{
+    width: 70%;
+  }
   /* .interest-box{
     gap: 30px;
   } */
