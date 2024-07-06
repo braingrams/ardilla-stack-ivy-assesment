@@ -29,6 +29,7 @@ Ensure you have the following installed on your machine:
    ```bash
    git clone https://github.com/your-repository-url.git
    cd your-repository
+   
 2. **Install Dependencies:**
 
   npm install or pnpm install
@@ -47,12 +48,15 @@ Ensure you have the following installed on your machine:
   - vite.config.ts: Vite configuration file.
 
  4. **Running the Project:**
+    
     To run the development server: npm run dev | pnpm run dev
-5. **Building the Project:**
+    
+ 5. **Building the Project:**
+   
     To create a production build: npm run build | pnpm run build
     To preview the production build: npm run preview | pnpm run preview
-7. **Linting:**
+   
+6. **Linting:**
+   
     To lint the code: npm run lint | pnpm run lint
- 8. 
- 9. 
 
