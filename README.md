@@ -1,4 +1,4 @@
-# React TypeScript Project
+# React TypeScript Project By Oluwabukunmi Akinyemi
 
 ## Overview
 
