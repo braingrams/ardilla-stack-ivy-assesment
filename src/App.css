@@ -257,6 +257,7 @@
 .invest-wrapper{
   padding: 120px 129px 160px;
   position: relative;
+  background-color: white;
 }
 .invest-content{
   width: 60%;
@@ -385,7 +386,7 @@
   position: relative;
 }
 .white-bg{
-  background-color: white;
+  /* background-color: white; */
   height: 154px;
   width: 100%;
 }
@@ -416,6 +417,7 @@
   color: #3C0071;
   font-size: 14px;
   font-weight: 500;
+  background-color: white;
 }
 .inner-banner{
   background-color: #3D0072;
@@ -552,6 +554,7 @@
 }
 .interest-section{
   padding: 160px 133px 65px;
+  background-color: white;
 }
 .title-text{
   font-size: 60px;
@@ -614,6 +617,7 @@
 }
 .works-wrapper{
   padding: 115px 135px;
+  background-color: white;
 }
 .single-works{
   border-radius: 16px;
@@ -665,6 +669,7 @@
 .faq-box{
   padding: 128px 135px;
   margin-bottom: 80px;
+  /* background-color: white; */
 }
 .faq-title{
   margin-bottom: 80px;
