@@ -1,6 +1,6 @@
 import "../../App.css";
 import { Header } from "../components/layout/Header";
-import heroImg from "../../assets/phone.png";
+import heroImg from "../../assets/phone.svg";
 
 export const Hero = () => {
 	return (

@@ -244,6 +244,10 @@
   padding: 80px 146px;
   margin-top: 77px;
   background-color: #29014B;
+  border: 1px solid #8807F7;
+  /* border-image-source: linear-gradient(132.09deg, #8807F7 10.33%, rgba(3, 105, 161, 0) 103.27%, #17A1FA 103.27%); */
+
+
   /* margin: 77px auto;
   width: 80%;
   max-width: 1170px; */
@@ -288,6 +292,7 @@
   position: absolute;
   bottom: -6px;
   right: 8.5%;
+  width: 50%;
 }
 .invest-btn, .access-btn{
   height: 50px;
@@ -301,14 +306,16 @@
   gap: 16px;
   color: #8807F7;
   cursor: pointer;
+  font-weight: 500;
 }
 .access-btn{
   color: white;
   border: 1px solid white;
   margin-top: 30px;
 }
-.access-btn:hover{
+.access-btn:hover, .invest-btn:hover{
   background-color: #8807F7;
+  color: white;
 }
 .access-btn .btn-icon{
   background: white;
@@ -323,6 +330,10 @@
   align-items: center;
   color: white;
   border-radius: 50%;
+}
+.invest-btn:hover .btn-icon{
+  background-color: #fff;
+  color: #8807F7;
 }
 .test-section{
   background-color: #F3F4F6;
